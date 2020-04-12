@@ -1,2 +1,1 @@
-this is a master test!
-	a new branch!
+ this is on master branch!
