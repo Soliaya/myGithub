@@ -1,3 +1,2 @@
-the first test
-	add by manage/test
+my name is lide
 
